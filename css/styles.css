@@ -354,10 +354,10 @@ ul {
 }
 .is-open .header,
 .is-open .section-1,
-.section-2,
-.section-3,
-.section-4,
-.footer {
+.is-open .section-2,
+.is-open .section-3,
+.is-open .section-4,
+.is-open .footer {
   opacity: 0.5;
   transition: opacity 250ms ease;
 }
